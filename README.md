@@ -1,7 +1,7 @@
 
 - 👨‍💻 Web Developer Full Stack,  3+ year of experience.
 - JavaScript, ReactJs, NodeJs, TypeScript, DataBase.
-- 
+  
 - 📅 Data enthusiast. Fintech Base Company as a Senior Credit Consultant.
 - 💞️ Looking to collaborate with technology companies. 
 - Or also in open source projects.
