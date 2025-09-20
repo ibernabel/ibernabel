@@ -36,3 +36,4 @@
 ---
 
 ✨ *Code + Automations + AI = Digital Transformation* 🚀  
+✨ *I bring not only technical skills but also a mindset of growth, leadership, and teamwork. My goal is to create digital solutions that transform businesses and lives.*  
