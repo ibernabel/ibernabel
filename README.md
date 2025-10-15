@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Idequel Bernabel  
 
-🚀 **Automation & AI Specialist | Full Stack Developer**  
+🚀 **AI Automation & Integration Specialist | Full Stack Developer**  
 💡 I help businesses and teams save time and scale through **smart automations, AI integrations and efficient software solutions**.  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 3+ years of experience as a **Full Stack Developer** (backend-oriented).  
+- 5+ years of experience as a **Full Stack Developer** (backend-oriented).  
 - Currently focused on **Automation, AI, and Digital Transformation**.  
 - Background in **PHP/Laravel, Node.js/Express, APIs, and Databases**.  
 - Creator of [LAMAS](https://github.com/ibernabel/lamas), a complete project built with Laravel.  
