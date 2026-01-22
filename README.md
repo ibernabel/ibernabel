@@ -67,7 +67,7 @@ These repositories demonstrate my transition from "Coder" to "Solutions Architec
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=ibernabel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F0F6FC" alt="Idequel's Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibernabel&theme=tokyonight&hide_border=true&background=0D1117" alt="Idequel's Streak" />  
+<img src="https://streak-stats.demolab.com?user=ibernabel&theme=tokyonight&hide_border=true&background=0D1117" alt="Idequel's Streak" />  
 </div>  
 <div align="center">  
 <sub><i>"The best way to predict the future is to invent it."</i></sub>  
