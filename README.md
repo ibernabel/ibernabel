@@ -34,7 +34,7 @@ That background taught me a fundamental truth:
 Today, I design deterministic AI ecosystems and full-stack software products that allow startups and fintechs to ship enterprise-grade systems in weeks instead of quarters.
 
 - 🏗️ **Core Focus:** Stateful Agent Orchestration (LangGraph), Production RAG (pgvector), and Domain-Driven Design (DDD).
-- 🛡️ **AI Governance:** Creator of [Framework ASD v2](https://github.com/ibernabel) — an open-source framework governing AI coding agents with strict TDD, Gherkin specs, and complexity constraints ($\text{CRAP} \le 6$).
+- 🛡️ **AI Governance:** Creator of [Framework ASD v2](https://github.com/ibernabel/asd-framework) — an open-source framework governing AI coding agents with strict TDD, Gherkin specs, and complexity constraints ($\text{CRAP} \le 6$).
 - 🌐 **Portfolio & Case Studies:** Explore live architectures at [build.idequelbernabel.com](https://build.idequelbernabel.com).
 
 ---
@@ -83,7 +83,7 @@ Today, I design deterministic AI ecosystems and full-stack software products tha
 | :--- | :--- | :--- | :--- |
 | **SoliPres**<br>*(Live in Production)* | **Loan Origination & Core Operations** | Production platform processing real credit portfolios. Features Ubiquitous Language (DDD), sequential lifecycle states, immutable cryptographic links, and real-time risk scoring heuristics. | `PHP 8` `MySQL` `REST API` `Tokens` |
 | **Solufime Portal**<br>*(Live in Production)* | **Transactional Acquisition & Loan Intake** | High-performance public portal with direct API connectivity to SoliPres backend. Zero middleware overhead, secured via HTTPS and HMAC SHA-256 signature validation. | `Astro` `TypeScript` `TailwindCSS` `HMAC` |
-| **Framework ASD v2**<br>*(Open Source)* | **AI-Driven Structured Development** | Rigorous engineering framework organizing human-AI pair programming across 5 domains. Implements the 7-agent Uncle Bob pipeline (Specifier → Coder → Refactorer → Architect → QA) enforcing 100% Gherkin test coverage. | `Python` `Bash` `Git Hooks` `Agent AI` |
+| **[Framework ASD v2](https://github.com/ibernabel/asd-framework)**<br>*(Open Source)* | **AI-Driven Structured Development** | Rigorous engineering framework organizing human-AI pair programming across 5 domains. Implements the 7-agent Uncle Bob pipeline (Specifier → Coder → Refactorer → Architect → QA) enforcing 100% Gherkin test coverage. | `Python` `Bash` `Git Hooks` `Agent AI` |
 | **Enterprise AI Support**<br>*(Production Blueprint)* | **Stateful Multi-Agent Customer Operations** | Multi-agent customer service ecosystem with LangGraph state routing, pgvector RAG, Redis semantic caching, and seamless Human-in-the-Loop handoffs via Chatwoot. | `FastAPI` `LangGraph` `pgvector` `Chatwoot` |
 | **CreditGraph Parser**<br>*(Functional Microservice)* | **Regulatory PII & Credit Intake** | Microservice converting complex PDF credit bureau reports into validated JSON schemas with automatic PII masking under regulatory compliance (Ley 172-13). | `Python 3.12` `FastAPI` `PyMuPDF` `Pydantic v2` |
 
